@@ -1,0 +1,1 @@
+const http=require("http"),fs=require("fs"),path=require("path");const root="dist";http.createServer((req,res)=>{let f=path.join(root,req.url.split("?")[0]);if(f.endsWith("/"))f+="index.html";fs.readFile(f,(e,d)=>{if(e){res.statusCode=404;res.end("not found");return;}res.end(d);});}).listen(4173,"127.0.0.1",()=>console.log("listening"));

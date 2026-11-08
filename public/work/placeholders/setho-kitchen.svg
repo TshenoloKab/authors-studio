@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Setho Kitchen food and catering concept preview">
+  <rect width="1200" height="750" fill="#f8ecdf" />
+  <rect x="0" y="0" width="1200" height="120" fill="#9a3412" />
+  <text x="60" y="78" font-family="Space Grotesk, Arial, sans-serif" font-size="42" font-weight="700" fill="#ffffff">SETHO KITCHEN</text>
+  <circle cx="360" cy="400" r="180" fill="#f5d8b8" />
+  <circle cx="360" cy="400" r="120" fill="#d97706" />
+  <rect x="620" y="200" width="520" height="110" rx="12" fill="#fff7ed" stroke="#fdba74" />
+  <rect x="620" y="335" width="520" height="110" rx="12" fill="#fff7ed" stroke="#fdba74" />
+  <rect x="620" y="470" width="520" height="110" rx="12" fill="#fff7ed" stroke="#fdba74" />
+  <text x="60" y="660" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="600" fill="#9a3412">Food &amp; Catering Concept</text>
+  <text x="60" y="705" font-family="Inter, Arial, sans-serif" font-size="22" fill="#64748b">Concept preview - replace with live screenshot when available</text>
+</svg>

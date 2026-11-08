@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Traxena Digital corporate website concept preview">
+  <rect width="1200" height="675" fill="#f3f0ff" />
+  <rect x="0" y="0" width="1200" height="100" fill="#172554" />
+  <text x="60" y="66" font-family="Space Grotesk, Arial, sans-serif" font-size="38" font-weight="700" fill="#ffffff">TRAXENA DIGITAL</text>
+  <rect x="60" y="150" width="420" height="260" rx="16" fill="#ffffff" stroke="#e2e8f0" />
+  <rect x="520" y="150" width="300" height="120" rx="12" fill="#dbeafe" />
+  <rect x="850" y="150" width="290" height="120" rx="12" fill="#ede9fe" />
+  <rect x="520" y="300" width="620" height="110" rx="12" fill="#ffffff" stroke="#e2e8f0" />
+  <rect x="60" y="440" width="1080" height="170" rx="18" fill="#ffffff" stroke="#e2e8f0" />
+  <text x="60" y="600" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="600" fill="#2563eb">Corporate Website Concept</text>
+  <text x="60" y="640" font-family="Inter, Arial, sans-serif" font-size="20" fill="#64748b">Concept preview - replace with live screenshot when available</text>
+</svg>

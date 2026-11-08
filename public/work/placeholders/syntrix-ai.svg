@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Syntrix AI technology and SaaS concept preview">
+  <rect width="1200" height="750" fill="#071226" />
+  <rect x="0" y="0" width="1200" height="120" fill="#0f172a" />
+  <text x="60" y="78" font-family="Space Grotesk, Arial, sans-serif" font-size="42" font-weight="700" fill="#ffffff">SYNTRIX<span fill="#60a5fa">AI</span></text>
+  <rect x="60" y="180" width="260" height="480" rx="18" fill="#0f172a" stroke="#1e293b" />
+  <rect x="360" y="180" width="780" height="220" rx="18" fill="#0f172a" stroke="#1e293b" />
+  <rect x="360" y="430" width="370" height="230" rx="18" fill="#0f172a" stroke="#1e293b" />
+  <rect x="770" y="430" width="370" height="230" rx="18" fill="#0f172a" stroke="#1e293b" />
+  <text x="60" y="660" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="600" fill="#60a5fa">Technology &amp; SaaS Concept</text>
+  <text x="60" y="705" font-family="Inter, Arial, sans-serif" font-size="22" fill="#94a3b8">Concept preview - replace with live screenshot when available</text>
+</svg>

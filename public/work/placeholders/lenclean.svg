@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="LenClean cleaning services concept preview">
+  <rect width="1200" height="750" fill="#f8fafc" />
+  <rect x="0" y="0" width="1200" height="120" fill="#172554" />
+  <text x="60" y="78" font-family="Space Grotesk, Arial, sans-serif" font-size="42" font-weight="700" fill="#ffffff">LENCLEAN</text>
+  <circle cx="300" cy="390" r="150" fill="#dbeafe" />
+  <circle cx="600" cy="390" r="150" fill="#f3f0ff" />
+  <circle cx="900" cy="390" r="150" fill="#e0f2fe" />
+  <text x="245" y="400" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="600" fill="#172554">Home</text>
+  <text x="545" y="400" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="600" fill="#172554">Office</text>
+  <text x="845" y="400" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="600" fill="#172554">Deep</text>
+  <text x="60" y="660" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="600" fill="#2563eb">Cleaning Services Concept</text>
+  <text x="60" y="705" font-family="Inter, Arial, sans-serif" font-size="22" fill="#64748b">Concept preview - replace with live screenshot when available</text>
+</svg>

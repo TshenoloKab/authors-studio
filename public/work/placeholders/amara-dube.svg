@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Amara Dube corporate training concept preview">
+  <rect width="1200" height="750" fill="#f8fafc" />
+  <rect x="0" y="0" width="1200" height="120" fill="#0f2f3a" />
+  <text x="60" y="78" font-family="Space Grotesk, Arial, sans-serif" font-size="42" font-weight="700" fill="#ffffff">AMARA DUBE</text>
+  <rect x="60" y="180" width="340" height="180" rx="14" fill="#e2f5f1" />
+  <rect x="430" y="180" width="340" height="180" rx="14" fill="#e2f5f1" />
+  <rect x="800" y="180" width="340" height="180" rx="14" fill="#e2f5f1" />
+  <rect x="60" y="400" width="1080" height="260" rx="18" fill="#ffffff" stroke="#e2e8f0" />
+  <text x="90" y="470" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="600" fill="#0f766e">Corporate Training Programmes</text>
+  <text x="60" y="660" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="600" fill="#2563eb">Corporate Training Concept</text>
+  <text x="60" y="705" font-family="Inter, Arial, sans-serif" font-size="22" fill="#64748b">Concept preview - replace with live screenshot when available</text>
+</svg>

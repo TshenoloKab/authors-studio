@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Naledi Motsamai author and speaker concept preview">
+  <rect width="1200" height="750" fill="#fbf6ee" />
+  <rect x="0" y="0" width="1200" height="120" fill="#172554" />
+  <text x="60" y="78" font-family="Space Grotesk, Arial, sans-serif" font-size="42" font-weight="700" fill="#ffffff">NALEDI MOTSAMAI</text>
+  <rect x="60" y="170" width="500" height="500" rx="18" fill="#f5e8dd" />
+  <rect x="620" y="200" width="520" height="120" rx="12" fill="#ffffff" stroke="#e2e8f0" />
+  <rect x="620" y="350" width="520" height="120" rx="12" fill="#ffffff" stroke="#e2e8f0" />
+  <rect x="620" y="500" width="520" height="120" rx="12" fill="#ffffff" stroke="#e2e8f0" />
+  <text x="60" y="660" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="600" fill="#8b5cf6">Author &amp; Speaker Concept</text>
+  <text x="60" y="705" font-family="Inter, Arial, sans-serif" font-size="22" fill="#64748b">Concept preview - replace with live screenshot when available</text>
+</svg>
